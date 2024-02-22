@@ -8,13 +8,13 @@ namespace ManyStrings
         {
             string message1 = "Heyo!";
             string message2 = "Wassup!";
-            string message3 = "Howdy! \u02F2 \u2F3 \u02F1";
-            string message4 = "\u0023 cool"
+            string message3 = "Howdy! \u02C3\u006F\u02C2";
+            string message4 = "cool hat!";
 
-            Console.WriteLine(message1)
-            Console.WriteLine(message2)
-            Console.WriteLine(message3)
-            Console.WriteLine(message4)
+            Console.WriteLine(message1);
+            Console.WriteLine(message2);
+            Console.WriteLine(message3);
+            Console.WriteLine(message4);
 
 
         }
