@@ -4,7 +4,8 @@ namespace MeuPrograma
 {
     /// <summary>
     /// Inside the namespace is defined 
-    /// the Main function that prints "Hello, 
+    /// the Program class that has the
+    /// Main function that prints "Hello, 
     /// World!" and then "Bye world"
     /// </summary>
     class Program
