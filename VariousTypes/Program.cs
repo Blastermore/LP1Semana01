@@ -6,7 +6,6 @@ namespace VariousTypes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
             int a = 1;
             int b = 0x2;
             uint c = 3U;
@@ -19,9 +18,13 @@ namespace VariousTypes
             float h = 12.146f;
             float i = 2.3e8f;
 
+            bool j = false;
+            bool k = true;
+
             Console.WriteLine(a +"\n" + b + "\n" + c);
             Console.WriteLine(d +"\n" + e + "\n" + f);
             Console.WriteLine(g +"\n" + h + "\n" + i);
+            Console.WriteLine(j +"\n" + k);
         }
     }
 }
