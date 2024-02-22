@@ -14,7 +14,7 @@ namespace AskForInput
             string input_real = Console.ReadLine();
             float r = float.Parse(input_real);
 
-            Console.WriteLine(r);
+            Console.WriteLine(n + r);
         }
     }
 }
